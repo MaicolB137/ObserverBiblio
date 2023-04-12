@@ -6,7 +6,7 @@ package com.mycompany.observerbiblio;
 
 /**
  *
- * @author SG701-17
+ * @author Michael
  */
 public interface iSubject {
     public void register(Observer ob);

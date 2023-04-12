@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author SG701-17
+ * @author Michael
  */
 public class Subject implements iSubject {
 
